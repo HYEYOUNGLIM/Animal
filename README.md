@@ -18,7 +18,7 @@
 
 | Front-End                | Back-End       | FILE     | Tool                              |
 | ------------------------ | -------------- | -------- | ----------------------------------|
-| HTML5 CSS3 JavaScript    | JAVA           |          | ZOOM Photoshop illustrator eclipse|
+| HTML5 CSS3 JavaScript    | JAVA           |          | Photoshop illustrator eclipse     |
 
 ## 📅 개발 기간
 
@@ -35,44 +35,29 @@
 
 ## 🎞 실행 화면
 
-✅ [1] 메인 
+✅ [1] 게임방법 
 
-![a1](https://user-images.githubusercontent.com/54495841/126433847-4b3efafa-76f7-4809-b04d-c1d361625caf.PNG)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/54495841/126591714-3c7ac043-a20c-4d44-9f5b-bd697f02158d.gif)
 
-✅ [2-1] 게임시작-동물선택
+✅ [2-1] 게임시작-동물선택 
 
-![2](https://user-images.githubusercontent.com/54495841/126433918-5b4f9ad7-95eb-4542-ba2a-9fb61c34348e.PNG)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/54495841/126591606-7f9196e0-ec3f-478a-8fd5-714c3110c092.gif)
 
 ✅ [2-2] 게임시작-첫번째 게임
 
-![a3](https://user-images.githubusercontent.com/54495841/126433969-82b332ad-25a2-439f-911b-bde2fccdf2c9.PNG)
-
-
-✅ [2-2-1]  게임시작-첫번째 게임(성공시)
-
-![a2](https://user-images.githubusercontent.com/54495841/126434043-eca98826-9b45-46dd-9c41-27e9f5189d18.PNG)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54495841/126591620-1d423491-992c-46c2-b91d-b114071c471f.gif)
 
 ✅ [2-3] 게임시작-두번째 게임
 
-![a4](https://user-images.githubusercontent.com/54495841/126434114-e4e7dc27-869a-494e-be25-8009a4789349.PNG)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/54495841/126591646-47a5920a-b14d-4ecf-9d25-58b4c6e35cd0.gif)
 
-✅ [2-4] 게임시작-마지막 게임
+✅ [2-4] 게임시작-마지막 게임 & 동물획득
 
-![a5](https://user-images.githubusercontent.com/54495841/126434211-6d420eb0-2640-4d88-93be-5f0fefa70148.PNG)
-
-✅ [3] 동물획득
-
-![a7](https://user-images.githubusercontent.com/54495841/126434291-374c95a3-306a-4365-9d2e-260ff9e51295.PNG)
-
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/54495841/126591658-6674a030-5757-4e63-8b0f-1aec63e50851.gif)
 
 ✅ [4] 내 동물 보감
 
-![image](https://user-images.githubusercontent.com/54495841/126434362-2d1c709d-9d76-463b-9c2b-4ee69ee1fea2.png)
-
-
-✅ [5] 게임방법
-
-![image](https://user-images.githubusercontent.com/54495841/126434437-0c29b6b4-49ab-4a7f-bff5-f5da88988966.png)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/54495841/126591664-77ab69b5-7371-46b6-829b-ce44d615c51f.gif)
 
 
 ## 💻 개발자
