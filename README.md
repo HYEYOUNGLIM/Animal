@@ -1,7 +1,7 @@
 
 # 신비한 동물사전
 
-![introname](https://user-images.githubusercontent.com/54495841/126432118-01b8b335-a9bf-4495-95b9-a6e5fab37803.png)
+![a1](https://user-images.githubusercontent.com/54495841/126591818-8c3ead2e-dbc0-45ae-9ff1-5d2eb0cb9367.PNG)
 
 ## 📑 프로젝트 소개
 
